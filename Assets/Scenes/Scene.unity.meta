@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/Scenes/Scene.unity.meta
 guid: 43e0f42653eddd8428f1305b114c3234
 DefaultImporter:
+========
+guid: 8b98aac64d254cd4ea7daf549be081a2
+NativeFormatImporter:
+>>>>>>>> Stashed changes:Assets/Scenes/sky.mat.meta
   externalObjects: {}
+  mainObjectFileID: 2100000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
