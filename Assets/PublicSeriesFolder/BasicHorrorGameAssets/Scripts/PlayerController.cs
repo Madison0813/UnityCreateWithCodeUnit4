@@ -4,7 +4,7 @@ using UnityEngine;
 
 // This Will Auto Add Character Controller To Gameobject If It's Not Already Applied:
 [RequireComponent(typeof(CharacterController))]
-public class PlayerController : MonoBehaviour
+public class PlayerControl : MonoBehaviour
 {
     // Camera:
     public Camera playerCam;
