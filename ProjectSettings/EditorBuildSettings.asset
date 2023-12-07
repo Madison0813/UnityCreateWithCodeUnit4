@@ -9,13 +9,13 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu 1.unity
     guid: b59f006f40d2c3a4fa571ff325cbc21a
   - enabled: 1
-    path: Assets/Scenes/Game.unity
+    path: Assets/Scenes/SampleScene.unity
     guid: 0d2ee620ad599f44a9bedd993fa433d9
   - enabled: 0
     path: Assets/Scenes/DeathScene.unity
     guid: 65b6f33870ba3d141b593eaca613cf68
   - enabled: 1
-    path: Assets/DeathScene 1.unity
+    path: Assets/DeathScene.unity
     guid: e3690c0cdb9c1b74faf03768687688e7
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
